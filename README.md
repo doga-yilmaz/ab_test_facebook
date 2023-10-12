@@ -13,7 +13,13 @@ As a forward-thinking company poised to make waves in the realm of Facebook adve
 
 1. Maximize Clicks and Purchases: Which strategy will propel us toward our goal of skyrocketing clicks and driving purchases?
 2. Battle of Titans: Is there a discernible and statistically significant difference between the two bidding options?
-3. 
+
 **Enter the AB Test:** Today, we embark on a journey of data-driven discovery, where the clash of titans—Average Bidding versus Maximum Bidding—will be meticulously dissected and evaluated. We're on a quest for insights that will define our Facebook advertising strategy's future, using data as our compass and innovation as our weapon.
 
 The outcome of this AB Test will not just answer our questions but will be the harbinger of a glorious era in our Facebook advertising endeavors. Stay tuned for a transformation that will leave a mark on the digital advertising landscape.
+
+## Features:
+* Impression: Number of impressions per ad.
+* Click: Numbers of clicks per ad.
+* Purchase: The number of products purchased after the click.
+* Earning: Earning after purchase.
